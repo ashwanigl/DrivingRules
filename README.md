@@ -9,6 +9,7 @@
     2. When taking left turn
     3. When taking right turn
     4. When crossing a intersection
+    5. Taking U turns
 5. Driving on highways
 6. Overtaking
 7. Giving way to Emergency Vehicles such as Ambulance, Police, Fire Brigade
@@ -22,6 +23,7 @@
 15. Driving in Rains
 16. Driving in Storms
 17. Mountain Driving
+
 
 
 # 1. Basic Rules
